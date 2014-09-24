@@ -18,3 +18,5 @@
 
 /examples/simple-sbt/project/
 /examples/simple-sbt/target/
+
+.idea*
